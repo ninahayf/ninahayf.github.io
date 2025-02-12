@@ -1,0 +1,6 @@
+---
+title: "Projects"
+format: html
+---
+
+In the Spring of 2025 I took a Quantitative Reasoning class based in R.  I learned how to make and find files within my computer through RStudio, I learned how to navigate complicated instructions, and learned how to make a website through this software! 
