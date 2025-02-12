@@ -1,11 +1,22 @@
 ---
 title: "ninahayf.github.io"
+image: media/headshot.png
+toc: false
+about:
+  template: trestles
+  image-shape: round
+  image-width: 17em
+  links: 
+    - text: LinkedIn
+      href: www.linkedin.com/in/nina-hayford
+    - text: GitHub
+      href: https://github.com/ninahayf
+    - text: Email
+      href: mailto:ninahayf@colostate.edu
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hi, I'm Nina Hayford. I am a Junior at Colorado State University. I'm majoring in Ecosystem Science and Sustainability in the Warner College of Natural Resources.
 
 ```{r}
-1 + 1
+
 ```
