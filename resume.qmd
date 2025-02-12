@@ -1,0 +1,10 @@
+---
+
+---
+
+---
+title: "Resume"
+format: html
+---
+
+![](ResumeII.pdf){fig-align="center" width="32%"}
