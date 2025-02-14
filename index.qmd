@@ -16,7 +16,3 @@ about:
 ---
 
 Hi, I'm Nina Hayford. I am a Junior at Colorado State University. I'm majoring in Ecosystem Science and Sustainability in the Warner College of Natural Resources.
-
-```{r}
-
-```
