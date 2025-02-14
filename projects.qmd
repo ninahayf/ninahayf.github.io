@@ -4,7 +4,9 @@ format: html
 ---
 
 In the Spring of 2025 I took a Quantitative Reasoning class based in R.  I learned how to make and find files within my computer through RStudio, I learned how to navigate complicated instructions, and learned how to make a website through this software! 
+
 I now value the power of office hours and asking for help when I am confused or do not know how to do something. 
+
 - In this assignment we built a static users site with Github Pages. 
+
 - Includes a github repo for access to all the code. 
--
