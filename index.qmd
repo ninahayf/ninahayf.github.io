@@ -16,3 +16,9 @@ about:
 ---
 
 Hi, I'm Nina Hayford. I am a Junior at Colorado State University. I'm majoring in Ecosystem Science and Sustainability in the Warner College of Natural Resources.
+
+<https://ninahayf.github.io/csu-ess-lab3/lab-03.html>
+
+-   In this lab I learned how to create maps and tables using the flextable feature
+
+-   I also learned how to use GitHub Pages to make your rendered .html file into a website!
