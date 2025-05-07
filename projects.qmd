@@ -3,10 +3,14 @@ title: "Projects"
 format: html
 ---
 
-In the Spring of 2025 I took a Quantitative Reasoning class based in R.  I learned how to make and find files within my computer through RStudio, I learned how to navigate complicated instructions, and learned how to make a website through this software! 
+# Daily Assignments
 
-I now value the power of office hours and asking for help when I am confused or do not know how to do something. 
+# Labs
 
-- In this assignment we built a static users site with Github Pages. 
+### Lab 3
 
-- Includes a github repo for access to all the code. 
+https://ninahayf.github.io/csu-ess-lab3/lab-03.html
+
+-   In this lab I learned how to create maps and tables using the flextable feature
+
+-   I also learned how to use GitHub Pages to make your rendered .html file into a website!
